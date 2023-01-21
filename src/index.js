@@ -5,5 +5,5 @@ import App from "./App"
 
 const el = document.getElementById('root');
 ReactDom.render(
-    <App />,
-    el);
+  <App />,
+  el);
